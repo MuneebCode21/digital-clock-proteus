@@ -25,6 +25,8 @@ The design also includes user-interaction and control features such as manual ti
 
 ## Main Components
 
+(Simulation.png)
+
 | Component | Quantity | Purpose |
 |---|---:|---|
 | CD4026 Decade Counter IC | 6 | Counts digits and drives the 7-segment displays |
@@ -68,6 +70,8 @@ The design includes an alarm feature in which the current time is compared with 
 The design includes time-zone adjustment using offset logic. A selectable offset can be applied to the hour value to simulate viewing the clock in another time zone.
 
 ## Simulation
+
+(Simulation.png)
 
 The complete circuit was designed and tested in **Proteus 8 Professional**. Simulation was used to:
 
