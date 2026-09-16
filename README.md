@@ -25,7 +25,7 @@ The design also includes user-interaction and control features such as manual ti
 
 ## Main Components
 
-(Simulation.png)
+![Hardware Implementation](Hardware.png)
 
 | Component | Quantity | Purpose |
 |---|---:|---|
@@ -71,7 +71,7 @@ The design includes time-zone adjustment using offset logic. A selectable offset
 
 ## Simulation
 
-(Simulation.png)
+![Digital Clock Simulation](Simulation.png)
 
 The complete circuit was designed and tested in **Proteus 8 Professional**. Simulation was used to:
 
